@@ -1,0 +1,3 @@
+40018	FAIL	SQL Injection
+10021	FAIL	Missing nosniff
+10023	FAIL	Debug disclosure
